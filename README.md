@@ -22,10 +22,11 @@ The School Management System is a versatile solution for educational institution
 
 ![Screenshot from 2023-11-05 18-31-35](https://github.com/Boupouchi/SpringBootV3/assets/81436882/8b44f815-6fe4-418a-82bd-2cddcc07ecd9)
 
+![Screenshot from 2023-11-05 18-39-28](https://github.com/Boupouchi/SpringBootV3/assets/81436882/41d49e64-6f4c-4bd4-b3b9-3cda5baa24d8)
+
 # Technologies Used
 * Spring Boot
 * Maven
 * Java EE
 * Hibernate
 * Swagger
-![Screenshot from 2023-11-05 18-39-28](https://github.com/Boupouchi/SpringBootV3/assets/81436882/41d49e64-6f4c-4bd4-b3b9-3cda5baa24d8)
