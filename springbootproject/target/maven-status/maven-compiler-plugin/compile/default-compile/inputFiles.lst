@@ -1,0 +1,15 @@
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/entities/User.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/controller/StudentController.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/dao/IDao.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/entities/Filiere.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/service/StudentService.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/entities/Role.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/controller/RoleController.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/repositories/FiliereRepository.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/repositories/StudentRepository.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/service/FiliereService.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/service/RoleService.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/demo/School1Application.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/entities/Student.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/controller/FiliereController.java
+/home/boupouchi/Documents/new/springBootLachgar/springbootproject/src/main/java/ma/projet/repositories/RoleRepository.java
